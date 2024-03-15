@@ -1,0 +1,3 @@
+C:/Temp/Ovni/cmake-build-debug/CMakeFiles/Ovni.dir
+C:/Temp/Ovni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Temp/Ovni/cmake-build-debug/CMakeFiles/rebuild_cache.dir
